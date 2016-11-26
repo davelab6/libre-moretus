@@ -12,7 +12,14 @@
 
 ## Quick installation
 
-info here...
+#### GNU/Linux
+[TODO] Info here. 
+
+#### Windows
+[TODO] Info here. 
+
+#### MacOS
+[TODO] Info here. 
 
 ## Overview of Features
 
