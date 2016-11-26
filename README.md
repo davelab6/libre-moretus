@@ -1,5 +1,39 @@
 # Libre Plantin
-[TODO] Add basic info. 
+[TODO] Add basic info.
+
+![Sample Image](/documentation/sample.png)
+
+### Contents
+
+* [Installation](#installation)
+* [Overview of Features](#overview-of-features)
+* [Resources](#resources)
+* [License](#license)
+
+## Quick installation
+
+info here...
+
+## Overview of Features
+
+- **Typeface Name**: Libre Plantin
+- **Category**: Old-style
+- **Number of Glyphs**: ___
+- **Included Styles**: Regular, Bold, Italic, Bold Italic
+- **Latest Release**: ___
+
+## Resources
+* [About Libre Plantin](docs/ABOUT.md)
+* [Full specimen](http://link)
+* [Changelog](CHANGELOG.md)
+* [Contributors](docs/CONTRIBUTORS.md)
+
+## License
+
+**Libre Plantin** &copy; 2016, Eli Heuer.
+
+See [LICENSE.md](https://github.com/eliheuer/libre-plantin/LICENSE.md) for the full texts of the licenses.
+
 # History
 Plantin is an old-style serif typeface named after the printer Christophe Plantin. It was first cut in 1913 by Fritz Stelzer under the guidance of Frank Hinman Pierpont for the Monotype Corporation, and is based on a Gros Cicero face cut in the 16th century by Robert Granjon.[1] Plantin is one of the typefaces that influenced the creation of Times New Roman in the 1930s.[2]
 
@@ -12,3 +46,4 @@ The design for Plantin preserved the large x-height of Granjon's designs, but sh
 During the interwar period the face was adopted and popularized by Francis Meynell's Pelican Press and by C. W. Hobson's Cloister press, and also used occasionally by Cambridge Press.[4] In more recent usage, the magazine Monocle is set entirely in Plantin and Helvetica.[8] An infant variety of the typeface also exists, with single-story versions of the letters a and g.
 
 The font was used as the signature font for ABC News from 1978 until the late 1990s.
+
