@@ -26,6 +26,14 @@
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>ref</string>
+		<string>outline-ref</string>
+	</array>
+	<key>com.typemytype.robofont.outline-ref.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.ref.layerStrokeColor</key>
 	<array>
