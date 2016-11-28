@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-224</integer>
 	<key>familyName</key>
-	<string>Logos</string>
+	<string>Libre Plantin</string>
 	<key>openTypeHeadCreated</key>
 	<string>2016/07/07 19:44:28</string>
 	<key>openTypeNamePreferredFamilyName</key>
@@ -23,9 +23,21 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFontName</key>
 	<string>Libre-plantin-Regular</string>
 	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
 	<key>styleMapStyleName</key>

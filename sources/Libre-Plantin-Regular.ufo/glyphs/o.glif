@@ -38,60 +38,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2016-07-18 23:25:50 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>brightness</key>
-              <integer>0</integer>
-              <key>color</key>
-              <array>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <real>0.266</real>
-              </array>
-              <key>contrast</key>
-              <integer>1</integer>
-              <key>path</key>
-              <string>/Users/eli/Dropbox/screenshots/Screenshot 2016-07-04 12.27.12.png</string>
-              <key>saturation</key>
-              <integer>1</integer>
-              <key>sharpness</key>
-              <real>0.4</real>
-              <key>transform</key>
-              <array>
-                <real>3.243</real>
-                <integer>0</integer>
-                <integer>0</integer>
-                <real>3.243</real>
-                <real>-1526.638</real>
-                <real>-269.556</real>
-              </array>
-            </dict>
-          </dict>
-          <key>name</key>
-          <string>o</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>513</integer>
-        </dict>
-      </dict>
     </dict>
   </lib>
 </glyph>
