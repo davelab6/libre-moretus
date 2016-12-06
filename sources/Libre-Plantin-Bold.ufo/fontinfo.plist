@@ -12,10 +12,6 @@
 	<string>Libre Plantin</string>
 	<key>openTypeHeadCreated</key>
 	<string>2016/07/07 19:44:28</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Libre Plantin</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -29,8 +25,6 @@
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptFontName</key>
-	<string>Libre-plantin-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
@@ -43,7 +37,7 @@
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Bold</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
