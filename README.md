@@ -2,6 +2,10 @@
 
 Libre Plantin is a revival of the Plantin typeface, as designed by Frank Hinman Pierpont In 1913 for Monotype. The primary referance source is scans of Letraset Plantin 110. 
 
+Below is a scan from a Letraset specimen book, used for development reference:
+
+![Sample Image](/reference/letraset-specimen-110-bold-web.jpg)
+
 ### Contents
 
 * [Installation](#installation)
@@ -52,4 +56,3 @@ The design for Plantin preserved the large x-height of Granjon's designs, but sh
 During the interwar period the face was adopted and popularized by Francis Meynell's Pelican Press and by C. W. Hobson's Cloister press, and also used occasionally by Cambridge Press.[4] In more recent usage, the magazine Monocle is set entirely in Plantin and Helvetica.[8] An infant variety of the typeface also exists, with single-story versions of the letters a and g.
 
 The font was used as the signature font for ABC News from 1978 until the late 1990s.
-
