@@ -5,8 +5,8 @@ import math # for cos, sin and pi functions
 print installedFonts()
 
 # static variables
-canvasWidth = 800  # size of the image in pixels
-canvasHeight = 110
+canvasWidth = 452  # size of the image in pixels
+canvasHeight = 72
 
 # gird variables
 origin = (128, 128)
@@ -24,7 +24,7 @@ def new_page():
 new_page()
     
 # type 
-fontSize(128)
+fontSize(72)
 font("LibrePlantin-Bold")
 tracking(0)
 fill(0)
