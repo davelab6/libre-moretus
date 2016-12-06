@@ -1,6 +1,6 @@
 ![Sample Image](/documentation/sample.png)
 
-[TODO] Add basic info.
+Libre Plantin is a revival of the Plantin typeface, as designed by Frank Hinman Pierpont In 1913 for Monotype. The primary referance source is scans of Letraset Plantin 110. 
 
 ### Contents
 
