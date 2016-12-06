@@ -1,7 +1,6 @@
-# Libre Plantin
-[TODO] Add basic info.
-
 ![Sample Image](/documentation/sample.png)
+
+[TODO] Add basic info.
 
 ### Contents
 
