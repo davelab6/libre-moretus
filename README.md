@@ -6,7 +6,9 @@ Below is a scan from a Letraset specimen book, used for development reference:
 
 ![Sample Image](/reference/letraset-specimen-110-bold-web.jpg)
 
-Libre Plantin is made with free-software:
+![Sample Image](/documentation/screenshots/screenshot-from-2016-12-06-002.png)
+
+The Libre Plantin project loves free-software!
 
 ![Sample Image](/documentation/screenshots/screenshot-from-2016-12-06-001.png)
 
