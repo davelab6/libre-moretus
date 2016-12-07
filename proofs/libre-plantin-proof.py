@@ -106,4 +106,4 @@ lineHeight(80)
 lineHeight(None)
 ###############################################################
 
-saveImage([u"~/type/type-specimens/Eli_Heuer_Type_Specimen.pdf",])
+saveImage("libre-plantin-proof.pdf")
