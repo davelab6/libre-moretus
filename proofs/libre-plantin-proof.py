@@ -48,18 +48,15 @@ fill(0)
 stroke(None)
 
 text("Libre Plantin: https://github.com/eliheuer/libre-plantin", (-1, 704-16))
+text("144pt", (-1, 704-64))
 
-text("144pt", (-1, 704-48))
-txt_line_one="""Libre Plantin abehijlmnort LHPO"""
-txt_line_two="""abehijlmnort"""
-txt_line_three="""tuvwxyz"""
-txt_line_four="""Libre Plantin"""
+txt_line_one="""Libre Plantin abehijl mnort LHPO"""
 
 font("LibrePlantin-Bold")
 fontSize(144)
-tracking(-4)
-lineHeight(98)
-textBox(txt_line_one, (-2, -32, 520, 620)) #align="center"
+tracking(0)
+lineHeight(99)
+textBox(txt_line_one, (-5, -55, 560, 630)) #align="center"
 #textBox(txt_line_two, (-2, -32, 520, 300))
 #textBox(txt_line_three, (-2, -32, 520, 628-(80*2)))
 #textBox(txt_line_four, (-2, -32, 520, 628-(80*3)))
@@ -81,17 +78,11 @@ tracking(0)
 fill(0.1, 0.1, 0.1)
 stroke(None)
 
-text("Repo: https://github.com/eliheuer/libre-plantin", (-1, 704-16))
-text("License: SIL Open Font License v1.1", (-1, 704-32))
-text("Name: Libre Plantin", (-1, 704-48))
-text("Style: Bold", (-1, 704-64))
-#text("Units Per Em: 1000", (128+32, 704-16))
-#text("Year: 2014", (128+32, 704-32))
+text("Libre Plantin: https://github.com/eliheuer/libre-plantin", (-1, 704-16))
+text("144pt", (-1, 704-64))
 
-text("144pt", (-1, 704-96))
 txt_line_one="""Libre Plantin"""
-
-font("Times-Italic", 25)
+ 
 textBox("Hello World " * 100, (0, 0, 300, 300))
 
 font("LibrePlantin-Bold")
