@@ -35,64 +35,44 @@ def grid(origin, width, height, num_x_units, num_y_units):
 ###################################################################
 
 ######################################################### -- page 1
+translate(*origin) # grid off
+#grid(origin, width, height, num_x_units*2, num_y_units*2) # grid on
 
-# grid
-#translate(*origin) # grid off
-grid(origin, width, height, num_x_units*2, num_y_units*2) # grid on
-
-# type 
 fontSize(12)
 font("Helvetica Neue Bold")
-tracking(0)
 fill(0)
 stroke(None)
 
 text("Libre Plantin: https://github.com/eliheuer/libre-plantin", (-1, 704-16))
 text("144pt", (-1, 704-64))
 
-txt_line_one="""Libre Plantin abehijl mnort LHPO"""
-
+txt_line_one="""Libre Plantin abeijl nort PHIL"""
 font("LibrePlantin-Bold")
 fontSize(144)
-tracking(0)
 lineHeight(99)
 textBox(txt_line_one, (-5, -55, 560, 630)) #align="center"
-#textBox(txt_line_two, (-2, -32, 520, 300))
-#textBox(txt_line_three, (-2, -32, 520, 628-(80*2)))
-#textBox(txt_line_four, (-2, -32, 520, 628-(80*3)))
 
 lineHeight(None)
 ###############################################################
 
 ######################################################### -- page 2
 newPage()
+translate(*origin) # grid off
+#grid(origin, width, height, num_x_units*2, num_y_units*2) # grid on
 
-# grid
-#translate(*origin) # grid off
-grid(origin, width, height, num_x_units*2, num_y_units*2) # grid on
-
-# type 
 fontSize(12)
 font("Helvetica Neue Bold")
-tracking(0)
-fill(0.1, 0.1, 0.1)
+fill(0)
 stroke(None)
 
 text("Libre Plantin: https://github.com/eliheuer/libre-plantin", (-1, 704-16))
-text("144pt", (-1, 704-64))
+text("72pt", (-1, 704-64))
 
-txt_line_one="""Libre Plantin"""
- 
-textBox("Hello World " * 100, (0, 0, 300, 300))
-
+txt_line_one="""Libre Plantin  nnoonnoonn  oonnoonnoo nnoonnoonn  oonnoonnoo nnaannaann  ooaaooaaoo  nneenneenn eeooeeooee"""
 font("LibrePlantin-Bold")
-fontSize(144)
-tracking(-4)
-lineHeight(80)
-#textBox(txt_line_one, (-2, -32, 520, 492))
-#textBox(txt_line_two, (-2, -32, 520, 628-80))
-#textBox(txt_line_three, (-2, -32, 520, 628-(80*2)))
-#textBox(txt_line_four, (-2, -32, 520, 628-(80*3)))
+fontSize(72)
+lineHeight(50)
+textBox(txt_line_one, (-1, 0, 560, 591)) #align="center"
 
 lineHeight(None)
 ###############################################################
