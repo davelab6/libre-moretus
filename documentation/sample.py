@@ -6,7 +6,7 @@ print installedFonts()
 
 # static variables
 canvasWidth = 452  # size of the image in pixels
-canvasHeight = 90
+canvasHeight = 80
 
 # gird variables
 origin = (128, 128)
@@ -29,7 +29,7 @@ font("LibrePlantin-Bold")
 tracking(0)
 fill(0)
 stroke(None)
-text("Libre Plantin", (-2, 30))
+text("Libre Plantin", (-2, 20))
 fill(1, 0, 0)
                    
 saveImage("sample.png")
