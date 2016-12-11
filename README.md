@@ -6,9 +6,9 @@ Below is a scan from a Letraset specimen book, used for development reference:
 
 ![Sample Image](/reference/letraset-specimen-110-bold-web.jpg)
 
-![Sample Image](/documentation/screenshots/screenshot-from-2016-12-06-002.png)
-
 ![Sample Image](/documentation/screenshots/screenshot-from-2016-12-06-001.png)
+
+![Sample Image](/documentation/screenshots/screenshot-from-2016-12-06-002.png)
 
 ### Contents
 
