@@ -46,7 +46,7 @@ Below is a scan from a Letraset specimen book, used for development reference:
 
 **Libre Plantin** &copy; 2016, Eli Heuer.
 
-See [LICENSE.md](https://github.com/eliheuer/libre-plantin/LICENSE.md) for the full texts of the licenses.
+See [OFL.txt](OFL.txt) for the full texts of the licenses.
 
 # History
 Plantin is an old-style serif typeface named after the printer Christophe Plantin. It was first cut in 1913 by Fritz Stelzer under the guidance of Frank Hinman Pierpont for the Monotype Corporation, and is based on a Gros Cicero face cut in the 16th century by Robert Granjon.[1] Plantin is one of the typefaces that influenced the creation of Times New Roman in the 1930s.[2]
