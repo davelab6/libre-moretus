@@ -25,11 +25,11 @@ new_page()
     
 # type 
 fontSize(72)
-font("LibrePlantin-Bold")
+font("LibreMoretus-Bold")
 tracking(0)
 fill(0)
 stroke(None)
-text("Libre Plantin", (-2, 20))
+text("Libre Moretus", (-2, 20))
 fill(1, 0, 0)
                    
 saveImage("sample.png")

@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Libre Plantin-Bold
-FullName: Libre Plantin Bold
-FamilyName: Libre Plantin
+FontName: Libre Moretus-Bold
+FullName: Libre Moretus Bold
+FamilyName: Libre Moretus
 Weight: Regular
 Version: 1.0
 StyleMapFamilyName: 
@@ -413,7 +413,7 @@ aS'space'
 p156
 asS'com.typemytype.robofont.compileSettings.path'
 p157
-S'/Users/eli/type/libre-plantin/fonts/Libre-Plantin-Bold.otf'
+S'/Users/eli/type/libre-moretus/fonts/Libre-Moretus-Bold.otf'
 p158
 sS'com.typemytype.robofont.shouldAddPointsInSplineConversion'
 p159

@@ -43,11 +43,11 @@ font("Helvetica Neue Bold")
 fill(0)
 stroke(None)
 
-text("Libre Plantin: https://github.com/eliheuer/libre-plantin", (-1, 704-16))
+text("Libre Moretus: https://github.com/eliheuer/libre-moretus", (-1, 704-16))
 text("144pt", (-1, 704-64))
 
-txt_line_one="""Libre Plantin abeijl nort PHIL"""
-font("LibrePlantin-Bold")
+txt_line_one="""Libre Moretus abeijl nort PHIL"""
+font("LibreMoretus-Bold")
 fontSize(144)
 lineHeight(99)
 textBox(txt_line_one, (-5, -55, 560, 630)) #align="center"
@@ -65,11 +65,11 @@ font("Helvetica Neue Bold")
 fill(0)
 stroke(None)
 
-text("Libre Plantin: https://github.com/eliheuer/libre-plantin", (-1, 704-16))
+text("Libre Moretus: https://github.com/eliheuer/libre-moretus", (-1, 704-16))
 text("72pt", (-1, 704-64))
 
-txt_line_one="""Libre Plantin  nnoonnoonn  oonnoonnoo nnoonnoonn  oonnoonnoo nnaannaann  ooaaooaaoo  nneenneenn eeooeeooee"""
-font("LibrePlantin-Bold")
+txt_line_one="""Libre Moretus  nnoonnoonn  oonnoonnoo nnoonnoonn  oonnoonnoo nnaannaann  ooaaooaaoo  nneenneenn eeooeeooee"""
+font("LibreMoretus-Bold")
 fontSize(72)
 lineHeight(50)
 textBox(txt_line_one, (-1, 0, 560, 591)) #align="center"
@@ -77,4 +77,4 @@ textBox(txt_line_one, (-1, 0, 560, 591)) #align="center"
 lineHeight(None)
 ###############################################################
 
-saveImage("libre-plantin-proof.pdf")
+saveImage("libre-moretus-proof.pdf")
